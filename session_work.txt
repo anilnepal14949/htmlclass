@@ -1,0 +1,5 @@
+ - Create a repository in github
+ - Create a folder in your machine
+ - Initialize git in the folder
+ - Create an html document in the folder (Content: write about html elements using paragraph tag <p>...</p>)
+ - Push the html document to git repository
